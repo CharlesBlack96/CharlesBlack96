@@ -1,11 +1,18 @@
-### Hi there 👋
+### Hi there, my namwe is Charles but you can call me Charlie!
+
+- 🔭 I’m currently working on finishing my BLOOMTECH Institute Data Science bootcamp.
+- 🌱 I’m currently learning the ins and outs of Data Science and its real world applications.
+- 👯 I’m looking to collaborate on ways to efficiently and effectively improve quality of life in developing nations.
+- 🤔 I’m looking for help with landing my first job in the industry!
+- 💬 Ask me about how I changed my life around in the last 6 years from bad to great and my investment goals!
+- 📫 How to reach me: charlieblk9400@Gmail.com
 
 <!--
 **CharlesBlack96/CharlesBlack96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
